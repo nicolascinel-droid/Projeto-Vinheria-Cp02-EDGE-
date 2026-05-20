@@ -133,6 +133,8 @@ Os valores armazenados incluem:
 Temperatura;
 Umidade;
 Luminosidade.
+
+
 🔌 ESQUEMA DO CIRCUITO
 🌐 Simulação Wokwi
 
