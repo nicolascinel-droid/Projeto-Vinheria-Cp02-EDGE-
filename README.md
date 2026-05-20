@@ -250,7 +250,7 @@ Monitoramento remoto;
 Cartão SD;
 Gráficos em tempo real.
 
-👨‍💻 AUTORES
+👨‍💻 AUTORES:
 Nícolas Cinel
 Luis Fernando
 Kelvin Lucas
