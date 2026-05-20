@@ -136,7 +136,7 @@ Luminosidade.
 🔌 ESQUEMA DO CIRCUITO
 🌐 Simulação Wokwi
 
-Projeto no Wokwi
+https://wokwi.com/projects/464557863911736321?utm_source=chatgpt.com
 
 💻 CÓDIGO DO PROJETO
 📚 Bibliotecas Utilizadas
